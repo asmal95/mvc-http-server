@@ -1,0 +1,8 @@
+#if($name)
+    Hello, $name!
+#end
+
+<form method="post">
+    <input name="name" />
+    <button>Hi!?</button>
+</form>
